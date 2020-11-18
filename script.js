@@ -5,7 +5,7 @@ async function answer_questions(question) {
     // or you can specify the model url.
     //config = {modelUrl: 'https://yourown-server/qna/model.json'};
     //customModel = await qna.load(config);
-    const passage = document.getElementById("passage").innerHTML ;
+    const passage = document.getElementById("passage").value;
     //const question = "Who is the CEO of Google?"
     const answers = await model.findAnswers(question, passage);
     //alert(answers)
