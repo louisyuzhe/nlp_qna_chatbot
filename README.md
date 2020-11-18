@@ -1,7 +1,7 @@
 # **TensorFlow Natural Language Question Answering model**
 
 ### Question answering model based on a pre-trained BERT model fine-tuned on Stanford Question Answering Dataset (SQuAD) 2.0 dataset.
-### A Q&A chatbot that answers question based on the content of the given passage.
+### A Q&A chatbot that answers question in natural language based on the content of the given passage.
 
 ---
 Features Offer:
