@@ -5,7 +5,8 @@
 
 ---
 Features Offer:
-* 1: Just provide a passage, no training needed.
+* 1: Just provide a context(passage), no training needed.
+* 2: Easy integration with existing website.
 
 [//]: # (Image References)
 
@@ -15,8 +16,11 @@ Features Offer:
 ---
 ## Preview
 
-### 1. Question and Answer based on context
+### 1. Demo
+![Demo of Q&A chatbot](https://j.gifs.com/k8AKg5.gif)
+
+### 2. Question and Answer based on context
 ![alt text][image1]
 
-### 2. Context (A passage)
+### 3. Context (A passage)
 ![alt text][image2]
