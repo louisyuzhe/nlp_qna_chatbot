@@ -10,9 +10,13 @@ Features Offer:
 [//]: # (Image References)
 
 [image1]: screenshot.png "Screenshot of question and answer"
+[image2]: screenshot2.png "Screenshot of context"
 
 ---
 ## Preview
 
 ### 1. Question and Answer based on context
 ![alt text][image1]
+
+### 2. Context (A passage)
+![alt text][image2]
